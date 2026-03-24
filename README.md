@@ -11,8 +11,10 @@ A clean, responsive web application to convert metric and imperial units. Built 
 ## Getting Started
 Install the dependencies and run the project locally using Vite:
 ```bash
+thanks for visiting
+djsfdsjkfdsj
 npm install
-npm start
+npm  start
 ```
 
 Happy Coding!
