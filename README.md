@@ -12,7 +12,7 @@ A clean, responsive web application to convert metric and imperial units. Built 
 Install the dependencies and run the project locally using Vite:
 ```bash
 npm install
-npm start
+npm  start
 ```
 
 Happy Coding!
